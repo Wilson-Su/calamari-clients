@@ -1,12 +1,12 @@
 <unconfigured "Unconfigured">
-<workbench "WORKBENCH">
-<graph "GRAPH">
-<dashboard "DASHBOARD">
-<manage "MANAGE">
-<workbenchTitle "OSD Workbench">
-<graphTitle "Charting">
-<dashboardTitle "Dashboard">
-<manageTitle "Management">
+<workbench "OS 狀態">
+<graph "圖表">
+<dashboard "儀表板">
+<manage "管理">
+<workbenchTitle "OSD 狀態">
+<graphTitle "圖表">
+<dashboardTitle "儀表板">
+<manageTitle "管理">
 <healthOSDTitle "Health">
 <pleaseContactAdmin "Please contact Administrator">
 <serverErrorMessage """
@@ -19,7 +19,7 @@ Cluster Updates Are Stale. The Calamari update process may have failed.
 Cluster Updates Are Stale. The Cluster isn't updating Calamari. {{ pleaseContactAdmin }}
 """>
 <sessionTimeout "Session Has Timed Out. Please Login again.">
-<loginButton "Login">
+<loginButton "登入">
 <dashboardUpdateTimeout "Dashboard Update Timed Out. Please check your connection.">
 <unexpectedError "Unexpected Error ({{ $status }}){{ $responseText }}. {{ pleaseContactAdmin }}">
 <serverUnreachable "Server Unreachable. Try re-loading page or contact an Administrator.">
